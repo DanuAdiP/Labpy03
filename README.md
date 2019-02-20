@@ -45,7 +45,9 @@ Hasil out put latihan 2 sebagai berikut :
 
 ![hasillat2](https://user-images.githubusercontent.com/45659535/53096693-4c960000-3552-11e9-8a74-cddc99cd2114.JPG)
 
+## Program1
 ALGORITMA Program1
+Menampilkan laba perusahaan dalam 8 bulan terakhir
 
 1. Mulai
 2. Mencetak Judul Program, Nama, NIM, dan Kelas
