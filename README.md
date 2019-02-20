@@ -16,6 +16,7 @@ Menampilkan n bilangan acak yang lebih kecil dari 0,5, nilai n diisi pada saat r
 
 Codingan latihan 1 sebagai berikut :
 ![kodinganlat1](https://user-images.githubusercontent.com/45659535/53096548-fb860c00-3551-11e9-848f-7d0153bce5be.JPG)
+
 Hasil out put latihan 1 sebagai berikut :
 ![hasillat1](https://user-images.githubusercontent.com/45659535/53096570-0d67af00-3552-11e9-841a-3a6e50001f89.JPG)
 
@@ -36,6 +37,7 @@ Algoritma latihan 2:
 
 codingan latihan 2 sebagai berikut :
 ![kodinganlat2](https://user-images.githubusercontent.com/45659535/53096613-24a69c80-3552-11e9-87f8-fc69fe00a0ed.JPG)
+
 Hasil out put latihan 2 ketika di runtime sebagai berikut :
 ![hasillat2](https://user-images.githubusercontent.com/45659535/53096693-4c960000-3552-11e9-8a74-cddc99cd2114.JPG)
 
@@ -61,5 +63,6 @@ ALGORITMA Program1
 
 Codingan program1 sebagai berikut :
 ![kodinganprog1](https://user-images.githubusercontent.com/45659535/53096915-cc23cf00-3552-11e9-9ee8-ac1440dda5b5.JPG)
+
 Hasil out put Program 1 ketika di runtime sebagai berikut :
 ![hasilprog1](https://user-images.githubusercontent.com/45659535/53096944-df369f00-3552-11e9-82e6-1b5930ff8ab2.JPG)
