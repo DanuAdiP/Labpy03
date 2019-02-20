@@ -24,16 +24,15 @@ Hasil out put latihan 1 sebagai berikut :
 Membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan.Masukkan angka 0 untuk berhenti.
 
 Algoritma latihan 2:
-
-1.Mulai
-2.Mencetak Judul program, Nama, NIM, Kelas
-3.integer max = 0
-4.Menggunakan fungsi perulangan while true, hingga menampilkan perulangan sampai batas tertentu.
-5.Memasukan bilangan integer pada "a"
-6.Menggunakan fungsi if jika max kurang dari nilai a, maka max sama dengan a
-7.Mengunakan fungsi if jika nilai a adalah 0 maka fungsi break artinya perulangan berhenti jika menulis nilai 0.
-8.Mencetak nilai paling terbesar setelah break, sehingga menampilkan nilai terbesar diantara bilangan tersebut dalam perulangan.
-9.selesai
+1. Mulai
+2. Mencetak Judul program, Nama, NIM, Kelas
+3. integer max = 0
+4. Menggunakan fungsi perulangan while true, hingga menampilkan perulangan sampai batas tertentu.
+5. Memasukan bilangan integer pada "a"
+6. Menggunakan fungsi if jika max kurang dari nilai a, maka max sama dengan a
+7. Mengunakan fungsi if jika nilai a adalah 0 maka fungsi break artinya perulangan berhenti jika menulis nilai 0.
+8. Mencetak nilai paling terbesar setelah break, sehingga menampilkan nilai terbesar diantara bilangan tersebut dalam perulangan.
+9. selesai
 
 Codingan latihan 2 sebagai berikut :
 ![kodinganlat2](https://user-images.githubusercontent.com/45659535/53096613-24a69c80-3552-11e9-87f8-fc69fe00a0ed.JPG)
