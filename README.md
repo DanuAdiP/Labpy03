@@ -34,7 +34,7 @@ Algoritma latihan 2:
 8. Mencetak nilai paling terbesar setelah break, sehingga menampilkan nilai terbesar diantara bilangan tersebut dalam perulangan.
 9. selesai
 
-Codingan latihan 2 sebagai berikut :
+codingan latihan 2 sebagai berikut :
 ![kodinganlat2](https://user-images.githubusercontent.com/45659535/53096613-24a69c80-3552-11e9-87f8-fc69fe00a0ed.JPG)
 Hasil out put latihan 2 ketika di runtime sebagai berikut :
 ![hasillat2](https://user-images.githubusercontent.com/45659535/53096693-4c960000-3552-11e9-8a74-cddc99cd2114.JPG)
