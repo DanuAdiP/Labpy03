@@ -55,22 +55,22 @@ Menampilkan laba perusahaan dalam 8 bulan terakhir
 4. Membuat Catatan : 
 		Laba perusahaan bulan ke- 1 dan 2 = 0%
 		Laba perusahaan bulan ke- 3 dan 4 = 1%
-		Laba perusahaan bulan ke- 5 dan 6 = 5%
-		Laba perusahaan bulan ke- 7 dan 8 = 3%
+		Laba perusahaan bulan ke- 5 sampai ke- 7 = 5%
+		Laba perusahaan bulan ke- 8 = 3%
 5. Integer a = 100.000.000( modal awal)
 6. Menggunakan fungsi looping for pada nilai x 1-9 untuk menampilkan bulan 1 sampai bulan 8.
 7. Menggunakan fungsi if, untuk menghitung laba bulan 1 sampai 8
 8. Bulan pertama dan kedua laba adalah 0
 9. Bulan ke 3 dan ke 4 mendapatkan laba 1% sehingga modal di kali 1% = keuntungan
-10. Bulan ke 5 dan ke 6 mendapatkan laba 5%, sehingga modal dikali 5% = keuntungan
-11. Bulan ke 7 dan ke 8 mmendapatkan laba 3% sehingga keuntungan menurun dari bulan sebelumnya, modal dikali 3% = keuntungan.
+10. Bulan ke 5 sampai ke 7 mendapatkan laba 5%, sehingga modal dikali 5% = keuntungan
+11. Bulan ke 8 mmendapatkan laba 3% sehingga keuntungan menurun dari bulan sebelumnya, modal dikali 3% = keuntungan.
 12. Menghitung jumlah total laba dengan menjumlah keuntungan dari bulan ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat.
 13. Selesai
 
 Kodingan program1 sebagai berikut :
 
-![kodinganprog1](https://user-images.githubusercontent.com/45659535/53096915-cc23cf00-3552-11e9-9ee8-ac1440dda5b5.JPG)
+![kodinganprog1](https://user-images.githubusercontent.com/45659535/53497602-21be2580-3ad7-11e9-9dae-b83bc9cecf64.JPG)
 
 Hasil out put Program 1 sebagai berikut :
 
-![hasilprog1](https://user-images.githubusercontent.com/45659535/53096944-df369f00-3552-11e9-82e6-1b5930ff8ab2.JPG)
+![hasilprog1](https://user-images.githubusercontent.com/45659535/53497679-474b2f00-3ad7-11e9-8fbb-146de5eea5e4.JPG)
